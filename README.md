@@ -9,3 +9,6 @@ npm start
 
 ## install plugin sublime-babel-vscode in vscode
 ## install chrome React Developer Tools
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
